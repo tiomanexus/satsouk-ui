@@ -1,1 +1,0 @@
-start https://www.figma.com/design/53vxiRWS1Cb4R4gf8XvrsD/Satsouk-V2?node-id=2002-4304&t=k8fdo7Om5RK4BIV9-1
