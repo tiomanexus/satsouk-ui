@@ -7,3 +7,5 @@ Here's a presentation of the UI I'm working on for the MVP in the current phase 
 [Framer Remix](https://framer.com/projects/new?duplicate=CkyPdfY6uO7bZGN6b4NO)
 
 [Figma File](https://www.figma.com/design/53vxiRWS1Cb4R4gf8XvrsD/Satsouk-V2?node-id=2206-15745&t=k8fdo7Om5RK4BIV9-1)
+
+[Satsouk Landing Page](https://satsouk.xyz)
